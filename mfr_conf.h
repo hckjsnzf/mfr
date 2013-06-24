@@ -45,7 +45,7 @@ typedef struct mfrst_move
 	char mvfacc  [ACCLENG];
 	char mvtacc  [ACCLENG];
 	
-	char mvuse   ; /* EATING, BOOK, PUBBILL, TRAFIC, 
+	char mvuse   ; /* EATING, BOOK, PUBBILL, TRAFIC,  */
 	char mvtags  [TAGLENG];
 	int  tagnum  ;
 	
